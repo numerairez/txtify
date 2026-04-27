@@ -1,0 +1,9 @@
+/.DS_Store
+/.claude
+/.venv
+/decrypt.py
+/detxtify.py
+/encrypt.py
+/narrative-tree_txtified
+/secret_email.txt
+/txtify.py
